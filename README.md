@@ -5,11 +5,6 @@
 
 - **Masonería de imágenes**: Presenta una cuadrícula de imágenes.
 
-## 📸 Galería
-
-Aquí hay una vista previa de lo que encontrarás en el proyecto:
-
-
 
 ## 🌐 Tecnologías utilizadas
 
