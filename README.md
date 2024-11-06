@@ -17,7 +17,7 @@ Aquí hay una vista previa de lo que encontrarás en el proyecto:
 - **CSS3**: Para el estilo y diseño.
 - **Font Awesome**: Para iconos modernos y elegantes.
 
-  📧 Contacto
-Si tienes preguntas o comentarios, no dudes en contactar.
-Email: judithfullstack@gmail.com
+## 📧 Contacto
+Si tienes preguntas o comentarios, no dudes en contactarme:
 
+Email: judithfullstack@gmail.com
